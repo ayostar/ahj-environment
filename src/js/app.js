@@ -2,7 +2,7 @@
 // TODO: write code here
 
 // comment this to pass build
-const unusedVariable = "variable";
+const unusedVariable = 'variable';
 
 // for demonstration purpose only
 export default function demo(value) {
@@ -10,4 +10,4 @@ export default function demo(value) {
 }
 
 console.log(demo(unusedVariable));
-console.log("app.js included");
+console.log('app.js included');
